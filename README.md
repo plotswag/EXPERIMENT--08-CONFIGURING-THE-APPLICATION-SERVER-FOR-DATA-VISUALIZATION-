@@ -1,7 +1,9 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
-## Components required: Iot application server 
+## Components required: Iot application server
+## developed by: Jeevanesh
+## register no: 212222243002
 ## Theory :
  An application server is a modern form of platform middleware. It is system software that resides between the operating system (OS) on one side, the external resources (such as a database management system [DBMS], communications and Internet services) on another side and the users’ applications on the third side. The function of the application server is to act as host (or container) for the user’s business logic while facilitating access to and performance of the business application. The application server must perform despite the variable and competing traffic of client requests, hardware and software failures, the distributed nature of the larger-scale applications, and potential heterogeneity of data and processing resources required to fulfill the business requirements of the applications.
 
@@ -12,11 +14,11 @@ As the application server market matures, high performance becomes a stronger cr
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2.  click on the Application server as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
+![Screenshot 2024-10-28 085754](https://github.com/user-attachments/assets/eec03a93-fa19-4a79-9f4f-6184e8509769)
  3.Click on the Add dashboard option as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8006c218-4cfd-48b8-b0f1-34fd29f0a181)
  4.After creating dash board , using the edit option on the right corner  add the widgets as shown 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/16621142-3281-4164-9927-65bf4e1ea13d)
+![Screenshot 2024-10-28 085754](https://github.com/user-attachments/assets/f857adb2-0acb-4b30-bb43-003ae2a1b1cf)
 
 5. After addition of the widget on the data dash board the data should appear as shown belwo 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/f9f02c5b-ae17-436f-be3a-17c5e66d63a0)
@@ -28,8 +30,12 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![Screenshot 2024-10-28 085724](https://github.com/user-attachments/assets/dfe8f672-5e5d-4e6e-be04-79bd0d454fc2)
+
+![Screenshot 2024-10-28 085812](https://github.com/user-attachments/assets/c11811bd-95c1-4f86-a383-3719d5e92c6b)
+
+
+![Screenshot 2024-10-28 092902](https://github.com/user-attachments/assets/8471dc29-30d0-4d60-b0eb-2fbdd5fcfacb)
 
 
 
